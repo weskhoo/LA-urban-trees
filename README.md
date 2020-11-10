@@ -44,7 +44,7 @@ Urban forests can provide environmental, economic and social benefits. Here, sta
 * Possible negative association between tree densities and 100% FPL rates.
 
 3. Matrix Correlation plot of median income, 100% federal poverty level (FPL) rates, density and environmental justice indices.
-<img src="https://user-images.githubusercontent.com/70302224/98639869-d1085380-22de-11eb-836a-2063b6713453.png" width="450" height="400"/>
+<img src="https://user-images.githubusercontent.com/70302224/98639869-d1085380-22de-11eb-836a-2063b6713453.png" width="500" height="400"/>
 * HazScore: hazard proximity to sensitive uses; HealthScore: health risk and exposure; SVscore: social and health vulnerability; CCVscore: climate change vulnerability
 * Information on environmental justice indices methodology can be found here (https://planning.lacounty.gov/assets/img/gis/agol/Green_Zones_EJSM_Overview.pdf).
 * Regression analysis is conducted to determine statistical difference. 
