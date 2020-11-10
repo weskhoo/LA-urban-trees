@@ -32,6 +32,25 @@ Urban forests can provide environmental, economic and social benefits. Here, sta
 # Data Exploration
 
 1. Urban tree densities by US Cenus Tract boundaries.
+<img src="https://user-images.githubusercontent.com/70302224/98636877-81c12380-22dc-11eb-927d-03d631a695b9.png" width="400" height="500"/>
+* Tree densities appear to follow a similar trend to median income within boundaries. (Median income plot not shown)
 
-<img src="https://user-images.githubusercontent.com/70302224/98636877-81c12380-22dc-11eb-927d-03d631a695b9.png" width="400" height="600"/>
-* The percent of students (total of 11th and 12th Graders) who met the benchmark of both Evidence-Based Reading & Writing (ERW) and Math.
+
+2. Pairplot of median income, tree density and 100% federal poverty level (FPL) rates.
+<img src="https://user-images.githubusercontent.com/70302224/98637917-fa74af80-22dd-11eb-922f-be9a2b2d3c4f.png" width="400" height="400"/>
+* Tree density data is heavily skewed to the right.
+* Possible positive association between median income and 100% FPL rates (
+* Possible negative association between tree densities and 100% FPL rates.
+
+3. Matrix Correlation plot of median income, 100% federal poverty level (FPL) rates, density and environmental justice indices.
+<img src="https://user-images.githubusercontent.com/70302224/98639869-d1085380-22de-11eb-836a-2063b6713453.pngg" width="400" height="400"/>
+* HazScore: hazard proximity to sensitive uses; HealthScore: health risk and exposure; SVscore: social and health vulnerability; CCVscore: climate change vulnerability
+* Information on environmental justice indices methodology can be found here (https://planning.lacounty.gov/assets/img/gis/agol/Green_Zones_EJSM_Overview.pdf).
+* Regression analysis is conducted to determine statistical difference. 
+* Positive correlation between median income vs tree density (p < 0.01).
+* Negative correlation between 100% FLP (p < 0.01), HazScore (p < 0.01), HealthScore (p < 0.01), SVscore (p < 0.01) vs tree density.
+* Even though there is a negative correlation between CCVscore vs tree density, it is not statistically significant. 
+
+# Conclusion
+
+* 
