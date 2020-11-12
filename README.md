@@ -1,4 +1,4 @@
-# Los Angeles Urban Trees and their association to social and economic status.
+# Los Angeles urban trees and their association to social and economic status.
 Urban forests can provide environmental, economic and social benefits. Here, statistical analyses were done to understand the relationship between Los Angeles Urban Trees and environmental, economic and social indicators. Prior to final analysis, the data obtained was cleaned and explored. 
 The work was completed in three notebooks:
 
