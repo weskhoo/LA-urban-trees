@@ -50,14 +50,22 @@ The work was completed in three notebooks:
 
 # Data Exploration
 
-1. Urban tree densities by US Cenus Tract boundaries.
+1. **Urban tree densities by US Cenus Tract boundaries.**
 <img src="https://user-images.githubusercontent.com/70302224/98636877-81c12380-22dc-11eb-927d-03d631a695b9.png" width="400" height="500"/>
 
 * Tree densities appear to follow a similar trend to median income within boundaries. (Median income plot not shown)
 
+2. **Median income and 100% federal poverty level by US Cenus Tract boundaries.**
+<img src="https://user-images.githubusercontent.com/70302224/98899484-78fb5980-2464-11eb-899c-4d491ce664be.png" width="400" height="400"/>
 
-2. Pairplot of median income, tree density and 100% federal poverty level (FPL) rates.
-<img src="https://user-images.githubusercontent.com/70302224/98637917-fa74af80-22dd-11eb-922f-be9a2b2d3c4f.png" width="400" height="400"/>
+* Similar trend to between these 2 datasets (median income, 100% FPL). 
+
+* High median income areas such as Rolling Hills Estate, Beverly Glen, Hollywood Hills, Bel Air, have low poverty rates. 
+
+* Low median income areas are found close to downtown LA, have up higher poverty rates.
+
+3. **Pairplot of tree density, median incomeand 100% federal poverty level (FPL) rates.**
+<img src="https://user-images.githubusercontent.com/70302224/98899350-42254380-2464-11eb-9c7c-8d00437a2974.png" width="400" height="400"/>
 
 * Tree density data is heavily skewed to the right.
 
@@ -65,8 +73,15 @@ The work was completed in three notebooks:
 
 * Possible negative association between tree densities and 100% FPL rates.
 
-3. Matrix Correlation plot of median income, 100% federal poverty level (FPL) rates, density and environmental justice indices.
-<img src="https://user-images.githubusercontent.com/70302224/98639869-d1085380-22de-11eb-836a-2063b6713453.png" width="500" height="400"/>
+4. **Environmental Justice Indices by US Cenus Tract boundaries.**
+<img src="https://user-images.githubusercontent.com/70302224/98899607-b9f36e00-2464-11eb-8f74-f115ea40a8b1.png" width="400" height="400"/>
+
+* Explanation for the scores can be found here (https://planning.lacounty.gov/assets/img/gis/agol/Green_Zones_EJSM_Data_Sources.pdf).
+
+* Similarly, all 4 indices for environmental justice shows high scores around DTLA area, with the exception of Climate Change score which is also high around the northen part of LA county.
+
+5. **Matrix Correlation plot of median income, 100% federal poverty level (FPL) rates, density and environmental justice indices.**
+<img src="https://user-images.githubusercontent.com/70302224/98899294-2de14680-2464-11eb-9bc8-0f20c0cc9008.png" width="500" height="400"/>
 
 * HazScore: hazard proximity to sensitive uses; HealthScore: health risk and exposure; SVscore: social and health vulnerability; CCVscore: climate change vulnerability
 
@@ -87,5 +102,7 @@ The work was completed in three notebooks:
 * Lower urban tree densities are also associated with increased hazards, health risk and social vulnerability. 
 
 * Academic research have shown that urban forest provide vital social services such as improved mental and physical health, improved quality of life, which can contribute to a reduction in crime.
+
 * Additional analysis on LA urban tree densities vs crime, and or academic performance can be done to understand what other social indications are affected by urban forestry.
+
 * Govt officials can seek to increase access to urban forest as a mean to bridge the social and economic gaps in LA.
