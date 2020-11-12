@@ -51,7 +51,7 @@ The work was completed in three notebooks:
 # Data Exploration
 
 1. **Urban tree densities by US Cenus Tract boundaries.**
-<img src="https://user-images.githubusercontent.com/70302224/98636877-81c12380-22dc-11eb-927d-03d631a695b9.png" width="400" height="500"/>
+<img src="https://user-images.githubusercontent.com/70302224/98636877-81c12380-22dc-11eb-927d-03d631a695b9.png">
 
 * Tree densities appear to follow a similar trend to median income within boundaries. (Median income plot not shown)
 
