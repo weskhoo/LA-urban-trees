@@ -81,7 +81,7 @@ The work was completed in three notebooks:
 * Similarly, all 4 indices for environmental justice shows high scores around DTLA area, with the exception of Climate Change score which is also high around the northen part of LA county.
 
 5. **Matrix Correlation plot of median income, 100% federal poverty level (FPL) rates, density and environmental justice indices.**
-<img src="https://user-images.githubusercontent.com/70302224/98899294-2de14680-2464-11eb-9bc8-0f20c0cc9008.png" width="500" height="400"/>
+<img src="https://user-images.githubusercontent.com/70302224/98899294-2de14680-2464-11eb-9bc8-0f20c0cc9008.png" width="700" height="400"/>
 
 * HazScore: hazard proximity to sensitive uses; HealthScore: health risk and exposure; SVscore: social and health vulnerability; CCVscore: climate change vulnerability
 
