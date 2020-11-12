@@ -74,14 +74,14 @@ The work was completed in three notebooks:
 * Possible negative association between tree densities and 100% FPL rates.
 
 4. **Environmental Justice Indices by US Cenus Tract boundaries.**
-<img src="https://user-images.githubusercontent.com/70302224/98899607-b9f36e00-2464-11eb-8f74-f115ea40a8b1.png" width="600" height="400"/>
+<img src="https://user-images.githubusercontent.com/70302224/98899607-b9f36e00-2464-11eb-8f74-f115ea40a8b1.png" width="700" height="400"/>
 
 * Explanation for the scores can be found here (https://planning.lacounty.gov/assets/img/gis/agol/Green_Zones_EJSM_Data_Sources.pdf).
 
 * Similarly, all 4 indices for environmental justice shows high scores around DTLA area, with the exception of Climate Change score which is also high around the northen part of LA county.
 
 5. **Matrix Correlation plot of median income, 100% federal poverty level (FPL) rates, density and environmental justice indices.**
-<img src="https://user-images.githubusercontent.com/70302224/98899294-2de14680-2464-11eb-9bc8-0f20c0cc9008.png" width="700" height="400"/>
+<img src="https://user-images.githubusercontent.com/70302224/98899294-2de14680-2464-11eb-9bc8-0f20c0cc9008.png" width="500" height="400"/>
 
 * HazScore: hazard proximity to sensitive uses; HealthScore: health risk and exposure; SVscore: social and health vulnerability; CCVscore: climate change vulnerability
 
