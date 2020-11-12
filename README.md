@@ -56,7 +56,7 @@ The work was completed in three notebooks:
 * Tree densities appear to follow a similar trend to median income within boundaries. (Median income plot not shown)
 
 2. **Median income and 100% federal poverty level by US Cenus Tract boundaries.**
-<img src="https://user-images.githubusercontent.com/70302224/98899484-78fb5980-2464-11eb-899c-4d491ce664be.png" width="400" height="400"/>
+<img src="https://user-images.githubusercontent.com/70302224/98899484-78fb5980-2464-11eb-899c-4d491ce664be.png" width="600" height="400"/>
 
 * Similar trend to between these 2 datasets (median income, 100% FPL). 
 
@@ -74,7 +74,7 @@ The work was completed in three notebooks:
 * Possible negative association between tree densities and 100% FPL rates.
 
 4. **Environmental Justice Indices by US Cenus Tract boundaries.**
-<img src="https://user-images.githubusercontent.com/70302224/98899607-b9f36e00-2464-11eb-8f74-f115ea40a8b1.png" width="400" height="400"/>
+<img src="https://user-images.githubusercontent.com/70302224/98899607-b9f36e00-2464-11eb-8f74-f115ea40a8b1.png" width="600" height="400"/>
 
 * Explanation for the scores can be found here (https://planning.lacounty.gov/assets/img/gis/agol/Green_Zones_EJSM_Data_Sources.pdf).
 
